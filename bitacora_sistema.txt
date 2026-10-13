@@ -1,0 +1,12 @@
+[LOG FUNCIONAL]: Se ejecutó la acción 'atacar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'descansar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'entrenar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'atacar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'descansar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'entrenar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'atacar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'descansar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'entrenar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'atacar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'descansar' sobre la entidad Guerrero del Sistema
+[LOG FUNCIONAL]: Se ejecutó la acción 'entrenar' sobre la entidad Guerrero del Sistema
